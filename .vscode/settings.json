@@ -2,6 +2,7 @@
     "editor.tabSize": 8,
     "editor.insertSpaces": false,
     "files.associations": {
-        "2-o": "c"
+        "2-o": "c",
+        "107-o": "c"
     }
 }
