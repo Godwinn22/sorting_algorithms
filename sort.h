@@ -37,6 +37,7 @@ void merge_subarray(int *arr, int *array, size_t left,
 		    size_t center, size_t right);
 void heap_sort(int *array, size_t size);
 void heapify(int *array, size_t s, size_t root, size_t size);
-
+void radix_sort(int *array, size_t size);
+void count_sort_LSD(int *array, size_t size, size_t lsd);
 
 #endif
