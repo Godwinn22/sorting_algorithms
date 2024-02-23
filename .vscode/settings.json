@@ -1,4 +1,7 @@
 {
     "editor.tabSize": 8,
-    "editor.insertSpaces": false
+    "editor.insertSpaces": false,
+    "files.associations": {
+        "2-o": "c"
+    }
 }
