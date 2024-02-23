@@ -22,7 +22,7 @@ size_t list_len(listint_t *list)
  * switch_nodes - a function swaps nodes at pointer p with the following node
  * @list: the head of list
  * @p: the pointer to node
- * 
+ *
  * Return: void
  */
 void switch_nodes(listint_t **list, listint_t **p)
@@ -50,7 +50,7 @@ void switch_nodes(listint_t **list, listint_t **p)
  * cocktail_sort_list - a function that sorts a doubly linked list using
  * the cocktail sorting algorithm
  * @list: the pointer to list
- * 
+ *
  * Return: void
  */
 void cocktail_sort_list(listint_t **list)
