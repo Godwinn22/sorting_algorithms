@@ -28,5 +28,8 @@ size_t lomuto_partition(int *array, size_t size, ssize_t lo, ssize_t hi);
 void quicksort(int *array, size_t size, ssize_t lo, ssize_t hi);
 void quick_sort(int *array, size_t size);
 void shell_sort(int *array, size_t size);
+void switch_nodes(listint_t **list, listint_t **p);
+void cocktail_sort_list(listint_t **list);
+
 
 #endif
